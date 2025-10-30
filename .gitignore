@@ -1,0 +1,12 @@
+*.class
+/bin/
+/target/
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+students.txt
+
